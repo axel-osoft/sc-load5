@@ -44,7 +44,7 @@ Especially those generously supporting us at the *The Organization* tier and hig
 
 ## Example
 
-*attrs* gives you a class decorator and a way to declaratively define the attributes on that class:
+*attrs* gives you a class decorator and a way to declaratively defind the attributes on that class:
 
 <!-- code-begin -->
 
