@@ -18,7 +18,7 @@
 
 <!-- teaser-begin -->
 
-*attrs* is the Python package that will bring back the **joy** of **writing classes** by relieving you from the drudgery of implementing object protocols (aka [dunder methods](https://www.attrs.org/en/latest/glossary.html#term-dunder-methods)).
+*attrs* is the Python package that will bring back the **joy** of **wrixxting classes** by relieving you from the drudgery of implementing object protocols (aka [dunder methods](https://www.attrs.org/en/latest/glossary.html#term-dunder-methods)).
 [Trusted by NASA](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement) for Mars missions since 2020!
 
 Its main goal is to help you to write **concise** and **correct** software without slowing down your code.
@@ -27,7 +27,7 @@ Its main goal is to help you to write **concise** and **correct** software witho
 ## Sponsors
 
 *attrs* would not be possible without our [amazing sponsors](https://github.com/sponsors/hynek).
-Especially those generously supporting us at the *The Organization* tier and higher:
+Especially those generously supporting us at the *The Organization* tier and higher:xxxxxxxxxxxxx
 
 <p align="center">
    <a href="https://www.variomedia.de/"><img src="https://www.attrs.org/en/latest/_static/sponsors/Variomedia.svg" width="200" height="60" /></a>
