@@ -27,7 +27,7 @@ Its main goal is to help you to write **concise** and **correct** software witho
 ## Sponsors
 
 *attrs* would not be possible without our [amazing sponsors](https://github.com/sponsors/hynek).
-Especially those generously supporting us at the *The Organization* tier and higher:
+Especially those generously supporting us at the *The Organization* tier and higher:xxxxxxxxxxxxx
 
 <p align="center">
    <a href="https://www.variomedia.de/"><img src="https://www.attrs.org/en/latest/_static/sponsors/Variomedia.svg" width="200" height="60" /></a>
